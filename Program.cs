@@ -51,7 +51,7 @@ namespace csharpclass
             System.Console.WriteLine("Enter contact: \n");
             string contact = Console.ReadLine();
 
-            "name,,email"
+            //"name,,email"
             string[] contactDetails = contact.Split(',');
 
             //assume user always entered right format
